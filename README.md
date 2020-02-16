@@ -2,7 +2,7 @@
 
 
 This project uses HTML5, CSS3 and JavaScript
-This page has three pages, the Akon2 page which displays the Ghanian Akon Names based on the date, century, month and year the user enters. once all the above are entred by the user, the system displays the Ghania Akan name and the day the user was born.
+This page has three pages, the Akon page which displays the Ghanian Akon Names based on the date, century, month and year the user enters. once all the above are entred by the user, the system displays the Ghania Akan name and the day the user was born.
 The next page if for BMI calculator, it prompts the user to enter the mass and height of two users then compares and displays their BMI plus the comparison result.
 the contact us page consist of a contact form where user can contact us.
 The project is written in HTML, Javascript and CSS.
