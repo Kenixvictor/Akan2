@@ -21,7 +21,7 @@ The .htaccess file works to remove the .html of url
 
 ### Version 1
 
-First version released on November 01, 2017
+First version released on February 8th 2020
 - [Repository](https://github.com/kenixvictor/Akan2)
 - [Website](https://kenixvictor.github.io)
 
