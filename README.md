@@ -8,7 +8,7 @@ Maybe you want to read about them:
 - [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-The following items only work if the site is on a hosting server: MailChimp, Diqus and AddThis
+The following items only work if the site is on a hosting server: Github.com/kenixvictor/Akan2.io
 
 The .htaccess file works to remove the .html of url 
 
