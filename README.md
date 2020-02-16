@@ -1,4 +1,4 @@
-# Kenixvictor Duarte - Website V.2
+# Kenixvictor Akon - Website V.2
 
 
 This project uses HTML5, CSS3 and JavaScript
